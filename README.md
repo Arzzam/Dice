@@ -1,2 +1,2 @@
 # Dice
-Two Player Dice to toss the winner with javascript
+Two Player Dice to toss the winner by javascript
